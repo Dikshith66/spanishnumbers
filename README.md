@@ -1,6 +1,6 @@
-# spanishnumbers
+# spanish and english words[1..10]
 
-A new Flutter project.
+This project will display 1..10 spanish and english words.
 
 ## Getting Started
 
